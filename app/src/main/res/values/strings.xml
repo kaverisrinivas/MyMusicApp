@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMusicApp</string>
+    <string name="album_title">Baahubali</string>
+    <string name="action_settings">Settings</string>
+</resources>
